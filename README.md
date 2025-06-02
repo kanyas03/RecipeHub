@@ -5,7 +5,7 @@ RecipeHub is a simple and beautiful recipe search app built using **React**, **T
 
 
 ## 🔗 Live Demo
-[Click here to view]((https://youtu.be/VZtA7247PNs))
+(https://youtu.be/VZtA7247PNs)
 
 
 
