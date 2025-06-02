@@ -34,6 +34,6 @@ RecipeHub is a simple and beautiful recipe search app built using **React**, **T
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/recipehub.git
+git clone git@github.com:kanyas03/RecipeHub.git
 cd recipehub
 npm run dev
