@@ -1,13 +1,13 @@
-# 🍽️ RecipeHub - React Recipe Search App
+# 🍽️ RecipeHub 
 
 RecipeHub is a simple and beautiful recipe search app built using **React**, **Tailwind CSS**, and the free [TheMealDB API](https://www.themealdb.com/). Users can view a random featured recipe, search for recipes by name, and see full recipe details with ingredients and instructions.
 
----
+
 
 ## 🔗 Live Demo
-[Click here to view](https://your-live-site-url.com) <!-- Optional -->
 
----
+
+
 
 ## ✨ Features
 
@@ -17,7 +17,7 @@ RecipeHub is a simple and beautiful recipe search app built using **React**, **T
 - 🎥 Watch recipe tutorials on YouTube
 
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -27,7 +27,7 @@ RecipeHub is a simple and beautiful recipe search app built using **React**, **T
 - [TheMealDB API](https://www.themealdb.com/api.php)
 - [Vite](https://vitejs.dev/) (for fast dev build)
 
----
+
 
 ## 🚀 Getting Started
 
@@ -36,3 +36,4 @@ RecipeHub is a simple and beautiful recipe search app built using **React**, **T
 ```bash
 git clone https://github.com/yourusername/recipehub.git
 cd recipehub
+npm run dev
